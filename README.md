@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there 👋, a little about me...
 
-```sh
+```yaml
 namespace: syntaxfatal
 workplace:
   company: coink
@@ -21,4 +21,5 @@ learning:
   - golang
   - ansible
   - azure
+```
 
