@@ -3,7 +3,7 @@
 ```yaml
 namespace: syntaxfatal
 workplace:
-  company: coink
+  company: sistecredito
   position: devops engineer
 knowledge:
   - java
